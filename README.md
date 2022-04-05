@@ -1,4 +1,2 @@
 # NOTE
-# NOTE
-# NOTE
-# NOTE
+  存放个人笔记和相关资料
